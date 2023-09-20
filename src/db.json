@@ -1,0 +1,44 @@
+{
+    "quizzes": [
+        {
+            "id": 1,
+            "title": "Quiz 1",
+            "description": "This is Quiz 1",
+            "url": "https://www.youtube.com/watch?v=e6EGQFJLl04",
+            "questions": [
+                {
+                    "id": 1,
+                    "text": "Question 1",
+                    "answers": [
+                        {
+                            "id": 1,
+                            "text": "Answer 1",
+                            "isTrue": true
+                        },
+                        {
+                            "id": 2,
+                            "text": "Answer 2",
+                            "isTrue": false
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "text": "Question 2",
+                    "answers": [
+                        {
+                            "id": 3,
+                            "text": "Answer 1",
+                            "isTrue": false
+                        },
+                        {
+                            "id": 4,
+                            "text": "Answer 2",
+                            "isTrue": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
